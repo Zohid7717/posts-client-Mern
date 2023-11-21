@@ -34,6 +34,7 @@ const MainPage = () => {
             <PopularPosts key={idx} post={post} />
           ))}
         </div>
+        
       </div>
     </div>
   );
